@@ -113,8 +113,8 @@ a {
 }
 
 .h1-heading {
-  font-size: 55px;
-  line-height: 62px;
+  font-size: 52px;
+  line-height: 60px;
 }
 
 .h3-heading {
@@ -1046,7 +1046,7 @@ a {
   text-align: left;
   align-self: flex-start;
   font-family: Inter Display, sans-serif;
-  font-size: 22px;
+  font-size: 28px;
   font-style: normal;
   font-weight: 500;
   line-height: 45px;
